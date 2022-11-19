@@ -1,4 +1,4 @@
-## Tech Stack
+## Front-End Tech Stack
 <br />
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="reactjs" />
