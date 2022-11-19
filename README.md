@@ -1,6 +1,3 @@
-# Facebook-Clone-using-Spring-and-React
-Facebook Clone using Spring on the Back-end and Next.js and React on the Front-end
-
 ## Back-End Tech Stack
 <br />
 <p align="center">
