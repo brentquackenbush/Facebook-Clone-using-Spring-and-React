@@ -9,6 +9,6 @@
  ![facebook](https://user-images.githubusercontent.com/91532881/174793612-ebef3369-3427-4ea0-91af-1765c8be74ce.jpg)
 
 ## 🚀 Features
--- Create Post
--- Updates in real time
--- Saves posts and video/images in relational database. 
+- Create Post
+- Updates in real time
+- Saves posts and video/images in relational database. 
