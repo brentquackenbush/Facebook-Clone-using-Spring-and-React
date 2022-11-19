@@ -12,3 +12,11 @@
 - Create Post
 - Updates in real time
 - Saves posts and video/images in relational database. 
+
+### Tools used on this project
+
+- Visual Studio Code
+- create-react-app template
+- Intellj
+- MySqlWorkBench
+- Tomcat server from Spring Boot
